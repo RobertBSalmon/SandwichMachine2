@@ -1,0 +1,135 @@
+.container {
+  max-width: 960px;
+}
+
+*{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+  text-align: center;
+  color: rgb(253, 37, 109);
+  font-size: 4rem;
+}
+
+h3{
+  text-align: center;
+  font-size: 2rem;
+}
+.sandwichImage{
+  height: 25em;
+  display: block;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.size{
+  background-color: #3f42cc; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  border-radius: 3px;
+  margin: 20px;    
+}
+.size:hover{
+  background-color: #1a1b55; 
+}
+.center{
+  text-align: center;
+}
+fieldset{
+  border: 2px solid rgb(253, 37, 109);
+  width: 500px;
+  height: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  color: rgb(253, 37, 109);  
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+.group{  
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.start{
+  background-color: #3f42cc; 
+  border: none;
+  color: white;
+  padding: 12px 40px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  border-radius: 25px;
+  margin: 20px; 
+}
+.start:hover{
+  background-color: #1a1b55;
+}
+
+.OffReport{
+  background-color: white; 
+  border: 1px solid #3f42cc;
+  color: black;
+  padding: 12px 40px;
+  text-align: center;
+  font-size: 16px;
+  border-radius: 600px;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+.OffReport:hover{
+  background-color: #3f42cc; 
+  color: aliceblue;
+}
+aside{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  float: left;
+  padding: 20px;
+  font-size: 25px;
+  color: #e0be23;
+  position: fixed;
+}
+
+.coin{
+  background-color: white; 
+  border: 5px solid #e0be23;
+  color: black;
+  padding: 12px 12px;
+  text-align: center;
+  font-size: 16px;
+  border-radius: 600px;
+  margin-top: 30px;
+}
+.coin:hover{
+  background-color: #e0be23; 
+  color: aliceblue;
+}
+
+.change{
+  background-color: #6b6b6b; 
+  border: none;
+  color: white;
+  padding: 12px 50px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  border-radius: 3px;
+  margin: 20px;    
+}
+.change:hover{
+  background-color: #292929;
+}
+.take{
+  font-size: .75em;
+  color: rgb(255, 38, 0);
+}
+
+
